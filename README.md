@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @firresaalif
 - 👀 I’m interested in Front end Developer
 - 🌱 I’m currently learning JS and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @firresa_alif on instagram
 
 <!---
